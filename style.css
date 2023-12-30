@@ -23,11 +23,11 @@ h1{
     border-radius: 1rem;
 }
 .player{
-    margin-left: 5%;
+    margin-left: 1%;
 }
 .computer{
     float:right;
-    margin-right:5%;
+    margin-right:1%;
 }
 
 
