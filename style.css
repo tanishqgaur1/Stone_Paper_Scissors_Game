@@ -24,6 +24,7 @@ h1{
 }
 .player{
     margin-left: 5%;
+    
 }
 .computer{
     float:right;
@@ -71,6 +72,8 @@ button:hover{
     position:absolute;
     top:10rem;
     left:44%;
+
+    
     
     border-width:0.5rem;
     border-color: black;
