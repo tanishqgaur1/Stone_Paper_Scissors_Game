@@ -69,9 +69,8 @@ button:hover{
 }
 .score{
     position:absolute;
-    margin-top:3rem;
-    margin-left:7rem;
-    width:40%;
+    top:10rem;
+    left:44%;
     
     border-width:0.5rem;
     border-color: black;
